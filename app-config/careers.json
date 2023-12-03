@@ -1,0 +1,36 @@
+{
+    "heading":"Careers",
+    "careers":[
+        {
+            "company":"Microsoft",
+            "start":"2018",
+            "end":"Present",
+            "title":"Senior Software Engineer",
+            "description":"We are looking for a Senior Software Engineer to produce and implement functional software solutions. You will work with upper management to define software requirements and take the lead on operational and technical projects. In this role, you should be able to work independently with little supervision. You should have excellent organization and problem-solving skills.",
+            "responsibilities":[
+                "Automate tasks through appropriate tools and scripting",
+                "Review and debug code",
+                "Perform validation and verification testing",
+                "Collaborate with internal teams and vendors to fix and improve products",
+                "Document development phases and monitor systems",
+                "Ensure software is up-to-date with latest technologies"
+            ],
+            "reference":""
+        },
+        {
+            "company":"Microsoft",
+            "title":"Senior Software Engineer",
+            "description":"We are looking for a Senior Software Engineer to produce and implement functional software solutions. You will work with upper management to define software requirements and take the lead on operational and technical projects. In this role, you should be able to work independently with little supervision. You should have excellent organization and problem-solving skills.",
+            "responsibilities":[
+                "Automate tasks through appropriate tools and scripting",
+                "Review and debug code",
+                "Perform validation and verification testing",
+                "Collaborate with internal teams and vendors to fix and improve products",
+                "Document development phases and monitor systems",
+                "Ensure software is up-to-date with latest technologies"
+            ],
+            "reference":""
+        }
+        
+    ]
+}

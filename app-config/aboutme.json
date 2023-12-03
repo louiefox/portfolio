@@ -1,0 +1,47 @@
+{
+    "heading": "About Me",
+    "profile_image_src":"https://scontent-lhr8-2.xx.fbcdn.net/v/t39.30808-6/397560678_2593037050867345_5259766280464892648_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=5f2048&_nc_ohc=RctO3h0zE64AX8RvA-p&_nc_ht=scontent-lhr8-2.xx&oh=00_AfBStRDnqVlY5KkrH-ZKx77LKBDzbllwvFXlPE3_yJlbTA&oe=6558A983",
+    "description_line_clamp":7,
+    "about_me_description": "I am a 3rd year Computer Science student at the University of Warwick. I am currently on a year long placement at IBM as a Software Engineer. I am interested in all things tech, and I am always looking to learn new things. I am currently learning about web development and I am looking to learn more about cloud computing. I am also interested in the intersection between technology and business. In my spare time I enjoy playing football, watching films and TV shows, and playing video games. I am also a big fan of Formula 1. I am also a big fan of Formula 1. ffjeijfejfjiefjeififeijfijefijejifjieijfeijfijejifjieijfiejfijeijfije fijeifj eijfoi jwoifjwoij foiwjo fjwoi fjoiw jfoiwj foiwj fjwoi jfoiwj fo jwoifuj",
+    "hobbies_description":"As a computer science student, your hobbies likely blend your passion for technology with creative and analytical pursuits. You might enjoy coding personal projects, where you can experiment with new programming languages or develop software applications. Participating in hackathons or contributing to open-source projects can also be a rewarding experience, allowing you to collaborate with peers and contribute to real-world solutions. Beyond the screen, you might find solace in logic-based games like chess or strategy video games, which sharpen your problem-solving skills. To balance the tech-heavy aspects, you might engage in reading science fiction or tech-focused literature, keeping you inspired and informed about futuristic possibilities. Additionally, hobbies like 3D printing or robotics could provide a hands-on approach to understanding the practical applications of computer science.",
+    "read_more_btn":true,
+    "education":[
+        {
+            "institution":"University of Warwick",
+            "course":"BSc Computer Science",
+            "start_date":"September 2019",
+            "end_date":"Present",
+            "subjects":[
+                "Mathematics",
+                "Further Mathematics",
+                "Physics",
+                "Computer Science"
+            ]
+        },
+        {
+            "institution":"The Sixth Form College, Solihull",
+            "start_date":"September 2017",
+            "end_date":"June 2019",
+            "course":"A-Levels:",
+            "subjects":[
+                "Mathematics",
+                "Further Mathematics",
+                "Physics",
+                "Computer Science"
+            ]
+        },
+        {
+            "institution":"The Sixth Form College, Solihull",
+            "start_date":"September 2017",
+            "end_date":"June 2019",
+            "course":"A-Levels:",
+            "subjects":[
+                "Mathematics",
+                "Further Mathematics",
+                "Physics",
+                "Computer Science"
+            ]
+        }
+    ]
+
+}
