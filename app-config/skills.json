@@ -1,83 +1,110 @@
 {
     "heading": "Skills",
-    "subheading": "This section displays a visual representation of my proficiency level for each skill. This information can provide valuable insights into my skillset and help potential employers or collaborators assess my suitability for a given project or role.",
+    "subheading": "This section displays a visual representation of my self-evaluated proficiency for each skill.",
     "info":{
         "0": {
-            "heading":"Web Development",
+            "heading":"Programming Languages",
             "skills":{
                 "0": {
-                    "name": "HTML",
-                    "percentage": 60
+                    "name": "Lua",
+                    "percentage": 80
                 },
                 "1": {
-                    "name": "CSS",
-                    "percentage": 60
+                    "name": "C#",
+                    "percentage": 75
                 },
                 "2": {
-                    "name": "Javascript",
-                    "percentage": 50
+                    "name": "C++",
+                    "percentage": 70
                 },
                 "3": {
-                    "name": "PHP",
-                    "percentage": 40
+                    "name": "Python",
+                    "percentage": 60
                 },
                 "4": {
+                    "name": "Javascript",
+                    "percentage": 60
+                },
+                "5": {
                     "name": "SQL",
-                    "percentage": 40
+                    "percentage": 55
+                },
+                "6": {
+                    "name": "HTML",
+                    "percentage": 55
+                },
+                "7": {
+                    "name": "CSS",
+                    "percentage": 50
                 }
             }
         },
         "1": {
-            "heading":"Games Development",
+            "heading":"Game Engines",
             "skills":{
                 "0": {
                     "name": "Unity",
-                    "percentage": 60
+                    "percentage": 75
                 },
                 "1": {
-                    "name": "C#",
-                    "percentage": 60
+                    "name": "Godot",
+                    "percentage": 65
                 },
                 "2": {
-                    "name": "C++",
-                    "percentage": 50
+                    "name": "Unreal Engine",
+                    "percentage": 55
                 },
                 "3": {
-                    "name": "Java",
-                    "percentage": 40
-                },
-                "4": {
-                    "name": "Python",
-                    "percentage": 40
+                    "name": "Source Engine",
+                    "percentage": 50
                 }
             }
         },
         "2": {
-            "heading":"Software Development",
+            "heading":"Tools",
             "skills":{
                 "0": {
-                    "name": "C#",
-                    "percentage": 60
+                    "name": "Visual Studio",
+                    "percentage": 80
                 },
                 "1": {
-                    "name": "C++",
-                    "percentage": 60
+                    "name": "Git",
+                    "percentage": 75
                 },
                 "2": {
-                    "name": "Java",
+                    "name": "Photoshop",
                     "percentage": 50
                 },
                 "3": {
-                    "name": "Python",
-                    "percentage": 40
+                    "name": "Figma",
+                    "percentage": 50
                 },
                 "4": {
-                    "name": "SQL",
-                    "percentage": 40
+                    "name": "Trello",
+                    "percentage": 50
+                }
+            }
+        },
+        "3": {
+            "heading":"Libraries",
+            "skills":{
+                "0": {
+                    "name": "OpenGL",
+                    "percentage": 70
+                },
+                "1": {
+                    "name": "GLFW",
+                    "percentage": 70
+                },
+                "2": {
+                    "name": "ImGui",
+                    "percentage": 65
+                },
+                "3": {
+                    "name": "Tensorflow",
+                    "percentage": 45
                 }
             }
         }
-
     }
-
 }
