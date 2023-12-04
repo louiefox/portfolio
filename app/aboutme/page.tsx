@@ -73,7 +73,7 @@ export default function AboutMe() {
 
       <div>
         <h1 className="text-white text-4xl mt-10 text-center font-semibold">Education</h1>
-        <div className="grid grid-cols-1 gap-20 md:grid-cols-3 md:gap-40 mt-10 xl:px-60 lg:px-50 px-10 ">
+        <div className="grid grid-cols-1 gap-20 md:grid-cols-2 md:gap-40 mt-10 xl:px-60 lg:px-50 px-10 ">
           {Object.values(config.education).map((education,index) => {
             return (
               
