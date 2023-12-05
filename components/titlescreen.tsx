@@ -18,38 +18,22 @@ import Link from "next/link";
 
 export default function TitleScreen() {
 
-  const [activeTab, setActiveTab] = useState("Home");
+  const [activeTab, setActiveTab] = useState("Projects");
 
   function clickAboutMe() {
-    if (activeTab === "AboutMe") {
-      setActiveTab("Home");
-    } else {
-      setActiveTab("AboutMe");
-    }
+    setActiveTab("AboutMe");
   }
 
   function clickProjects() {
-    if (activeTab === "Projects") {
-      setActiveTab("Home");
-    } else {
-      setActiveTab("Projects");
-    }
+    setActiveTab("Projects");
   }
 
   function clickCareer() {
-    if (activeTab === "Career") {
-      setActiveTab("Home");
-    } else {
-      setActiveTab("Career");
-    }
+    setActiveTab("Career");
   }
 
   function clickSkills() {
-    if (activeTab === "Skills") {
-      setActiveTab("Home");
-    } else {
-      setActiveTab("Skills");
-    }
+    setActiveTab("Skills");
   }
   return (
     <section className="flex flex-col items-center justify-center gap-8 py-8 md:py-10 mt-48">
@@ -127,12 +111,10 @@ export default function TitleScreen() {
 
       {(() => {
         switch (activeTab) {
-          case "Home":
-            return null;
-          case "AboutMe":
-            return <AboutMe />;
           case "Projects":
             return <Projects />;
+          case "AboutMe":
+            return <AboutMe />;
           case "Career":
             return <Careers/>;
           case "Skills":
