@@ -12,15 +12,15 @@ export default function Projects() {
         <h1 className={title({ size: "xlg", color: "foreground" })}>{config.heading}</h1>
       </div>
       {Object.values(config.projects).map((project, index) => {// Add this line to check the format of tags
-        if (project.imageLeft === true) {
+        if (index % 2 === 0) {
           return (
             //@ts-ignore
-            <ProjectPictureLeft key={index} name={project.name} description={project.description} githubLink={project.github} tags={project.tags} images={project.image} />
+            <ProjectPictureRight key={index} name={project.name} description={project.description} githubLink={project.github} tags={project.tags} images={project.image} />
           );
         } else {
           return (
             //@ts-ignore
-            <ProjectPictureRight key={index} name={project.name} description={project.description} githubLink={project.github} tags={project.tags} images={project.image} />
+            <ProjectPictureLeft key={index} name={project.name} description={project.description} githubLink={project.github} tags={project.tags} images={project.image} />
           );
         }
       })}

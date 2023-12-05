@@ -2,55 +2,223 @@
   "heading": "Projects",
   "projects": {
     "0": {
-      "imageLeft": false,
-      "name": "Project 12",
-      "description": "This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1",
-      "github": "https://github.com",
+      "name": "Botched RPG",
+      "description": "A project based on MMO/RPG games. I started this project as I've always enjoyed MMO/RPG games and wanted to try making something based on one. Was in development for 2 months.",
+      "description": "Heavily inspired by RPG/MMO games, it's a small scale multiplayer focused project intended for around 100 players at once, I've always loved MMOs/RPGs so this was a very big passion project for me. Features a lot of RPG elements such as crafting, fighting monsters, doing quests, dungeons and partying up with friends. It was developed over 2-3 months, due to the limited team the focus was on making the content scope fairly small while still including a bit of everything.",
+      "github": "https://github.com/louiefox/botched-rpg",
       "tags": {
         "0": {
-          "name": "LUA",
+          "name": "Lua",
           "colour": "secondary"
         },
         "1": {
-          "name": "GMOD",
+          "name": "Source Engine",
+          "colour": "primary"
+        },
+        "2": {
+          "name": "Garry's Mod",
           "colour": "primary"
         }
       },
       "image": {
         "0": {
           "name": "image1",
-          "url": "https://media.gmodstore.com/_/script_media/868c77aa12b92e13692e305279e49c61.png"
+          "url": "https://i.imgur.com/rYGbY5f.jpg"
         },
         "1": {
           "name": "image2",
-          "url": "https://media.gmodstore.com/_/script_media/c812d3cb054fad9a74a1b569ea6fe2e8.png"
+          "url": "https://i.imgur.com/zklXJBl.jpg"
+        },
+        "2": {
+          "name": "image3",
+          "url": "https://i.imgur.com/qRQ44Sp.jpg"
+        },
+        "3": {
+          "name": "image4",
+          "url": "https://i.imgur.com/Rivq6T5.jpg"
+        },
+        "4": {
+          "name": "image5",
+          "url": "https://i.imgur.com/6M0hPBB.jpg"
+        },
+        "5": {
+          "name": "image6",
+          "url": "https://i.imgur.com/YD9CV2s.jpg"
+        },
+        "6": {
+          "name": "image7",
+          "url": "https://i.imgur.com/U8LDcud.jpg"
         }
       }
     },
 
     "1": {
-      "imageLeft": true,
-      "name": "Project 12",
-      "description": "This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1This is a description of project 1",
-      "github": "https://github.com",
+      "name": "3D Procedural Cave Generation",
+      "description": "My honours project for my 3rd year of university, I made use of L-Systems and Perlin Noise for the generation, it was rendered using OpenGL and written in C++. I was enjoying playing a game related to procedural dungeon generation at the time so I choose procedural generation for my honours. I worked on it for a few months alongside researching the subject area of procedural generation (specifically cave generation).",
       "tags": {
         "0": {
-          "name": "LUA",
+          "name": "C++",
           "colour": "secondary"
         },
         "1": {
-          "name": "GMOD",
+          "name": "OpenGL",
           "colour": "primary"
         }
       },
       "image": {
         "0": {
           "name": "image1",
-          "url": "https://media.gmodstore.com/_/script_media/868c77aa12b92e13692e305279e49c61.png"
+          "url": "https://i.imgur.com/sNrNPOZ.png"
         },
         "1": {
           "name": "image2",
-          "url": "https://media.gmodstore.com/_/script_media/c812d3cb054fad9a74a1b569ea6fe2e8.png"
+          "url": "https://i.imgur.com/aCJAahL.png"
+        }
+      }
+    },
+
+    "2": {
+      "name": "C# Battle Royale",
+      "description": "Made on the Source 2 engine within the game/engine, uses C# alongside the s&box editor. This was made during early access to the Source 2 engine and S&box, this project involved making a small scale battle-royale game where ~24 players would fight to win. It utilizies a lot of networking, including a networked inventory, health/armour and other player stats. There is a complex custom loot and inventory system used to display items in the world.",
+      "github": "https://github.com/louiefox/sbox-bots",
+      "tags": {
+        "0": {
+          "name": "C#",
+          "colour": "secondary"
+        },
+        "1": {
+          "name": "Source 2 Engine",
+          "colour": "primary"
+        },
+        "2": {
+          "name": "S&box",
+          "colour": "primary"
+        }
+      },
+      "image": {
+        "0": {
+          "name": "image1",
+          "url": "https://i.imgur.com/G4ARDV4.png"
+        },
+        "1": {
+          "name": "image2",
+          "url": "https://i.imgur.com/KWIavKQ.jpg"
+        },
+        "2": {
+          "name": "image2",
+          "url": "https://i.imgur.com/DflqRfu.png"
+        },
+        "3": {
+          "name": "image2",
+          "url": "https://i.imgur.com/VV6lElQ.png"
+        }
+      }
+    },
+
+    "3": {
+      "name": "Monolith Roleplay",
+      "description": "An online roleplay game that serviced more than 500,000 players over 6 years, created and worked on by many developers over its' lifetime. I lead and worked on this project with multiple developers for 2 of the 6 years it has existed. The game has a large feature set including but not limited to RPG elements such as inventory, levelling, crafting, fire system, health system and a property system.",
+      "github": "https://github.com",
+      "tags": {
+        "0": {
+          "name": "Lua",
+          "colour": "secondary"
+        },
+        "1": {
+          "name": "Source Engine",
+          "colour": "primary"
+        },
+        "2": {
+          "name": "Garry's Mod",
+          "colour": "primary"
+        }
+      },
+      "image": {
+        "0": {
+          "name": "image1",
+          "url": "https://i.imgur.com/XoClynA.png"
+        },
+        "1": {
+          "name": "image2",
+          "url": "https://i.imgur.com/WLKkfU9.jpg"
+        },
+        "2": {
+          "name": "image2",
+          "url": "https://i.imgur.com/6tvOOkM.jpg"
+        },
+        "3": {
+          "name": "image2",
+          "url": "https://i.imgur.com/EoSmIlK.png"
+        }
+      }
+    },
+
+    "4": {
+      "name": "Unity Networking",
+      "description": "Learned and implemented unity networking using \"Netcode for GameObjects\". The networking implementation used serverside verification as it was intended for use in an online game, this means that everything is requested by the client (including player movement). As well as players being networked a username system was implemented to allow players to set their names. Additionally shown in one of the images was an attempt at using Inverse Kinematics for foot placement, this was also part of the networking.",
+      "tags": {
+        "0": {
+          "name": "C#",
+          "colour": "secondary"
+        },
+        "1": {
+          "name": "Unity",
+          "colour": "primary"
+        }
+      },
+      "image": {
+        "0": {
+          "name": "image1",
+          "url": "https://i.imgur.com/TEAl4Di.png"
+        },
+        "1": {
+          "name": "image2",
+          "url": "https://i.imgur.com/OnA0Xaj.png"
+        },
+        "2": {
+          "name": "image2",
+          "url": "https://i.imgur.com/F2O8OEw.png"
+        }
+      }
+    },
+
+    "5": {
+      "name": "Gmodstore Plugins",
+      "description": "This isn't a singular project but a collection of projects, over multiple years I published multiple plugins that have been sold to over 5,000 customers. These plugins were made for the Garry's Mod game which is an online multiplayer game, most of the plugins included significant networking, UI/UX as well as gameplay design. These plugins were how I started learning to program, I made them all out of my passion for the game and my passion for games programming. Selling these plugins to customers also involved supporting them for customers, these plugins were used by customers and therefore live service, this meant I had to respond to bug fixes and improvements timely. Working with customers/clients provided lots of feedback on my projects, it helped me learn how to make products intended for users and tailor them to a users experience.",
+      "tags": {
+        "0": {
+          "name": "Lua",
+          "colour": "secondary"
+        },
+        "1": {
+          "name": "Source Engine",
+          "colour": "primary"
+        },
+        "2": {
+          "name": "Garry's Mod",
+          "colour": "primary"
+        }
+      },
+      "image": {
+        "0": {
+          "name": "image1",
+          "url": "https://i.imgur.com/85J0zX0.png"
+        },
+        "1": {
+          "name": "image2",
+          "url": "https://i.imgur.com/atXjvZP.png"
+        },
+        "2": {
+          "name": "image2",
+          "url": "https://i.imgur.com/OcjrXaa.jpg"
+        },
+        "3": {
+          "name": "image2",
+          "url": "https://i.imgur.com/KcTZmyb.jpg"
+        },
+        "4": {
+          "name": "image2",
+          "url": "https://i.imgur.com/7Akhlis.png"
         }
       }
     }

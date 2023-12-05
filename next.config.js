@@ -1,8 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-  output: 'export',
   images: {
-    remotePatterns: [{ protocol: "https", hostname: "media.gmodstore.com" }],
+    remotePatterns: [
+      { protocol: "https", hostname: "media.gmodstore.com" },
+      { protocol: "https", hostname: "i.imgur.com" }
+    ]
   },
 };
 
