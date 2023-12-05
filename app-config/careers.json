@@ -2,35 +2,37 @@
     "heading":"Careers",
     "careers":[
         {
-            "company":"Microsoft",
-            "start":"2018",
+            "company":"Thriving Ventures",
+            "start":"2019",
             "end":"Present",
-            "title":"Senior Software Engineer",
-            "description":"We are looking for a Senior Software Engineer to produce and implement functional software solutions. You will work with upper management to define software requirements and take the lead on operational and technical projects. In this role, you should be able to work independently with little supervision. You should have excellent organization and problem-solving skills.",
+            "title":"Gameplay Programmer",
+            "description":"Worked on a game project with a team of developers, this included back-end, front-end and environment/model artists. Served thousands of active players and focused a lot on feedback from players, main project was a multiplayer gamemode for a UGC platform.",
             "responsibilities":[
-                "Automate tasks through appropriate tools and scripting",
-                "Review and debug code",
-                "Perform validation and verification testing",
-                "Collaborate with internal teams and vendors to fix and improve products",
-                "Document development phases and monitor systems",
-                "Ensure software is up-to-date with latest technologies"
+                "Working with other developers to implement new features",
+                "Implementing new gameplay features",
+                "Debugging and fixing existing bugs",
+                "Improving existing features or QoL issues",
+                "Optimisations of bottlenecks in the game",
+                "Working on optimised networking for higher player counts",
+                "UI/UX design and implementation"
             ],
             "reference":""
         },
         {
-            "company":"Microsoft",
-            "title":"Senior Software Engineer",
-            "description":"We are looking for a Senior Software Engineer to produce and implement functional software solutions. You will work with upper management to define software requirements and take the lead on operational and technical projects. In this role, you should be able to work independently with little supervision. You should have excellent organization and problem-solving skills.",
+            "company":"Self-Employlment",
+            "start":"2018",
+            "end":"Present",
+            "title":"Programmer Freelancer",
+            "description":"Created my own game plugins and sold them on a marketplace to thousands of customers to then be used by players. Additionally I worked for various clients to develop private features for their game server.",
             "responsibilities":[
-                "Automate tasks through appropriate tools and scripting",
-                "Review and debug code",
-                "Perform validation and verification testing",
-                "Collaborate with internal teams and vendors to fix and improve products",
-                "Document development phases and monitor systems",
-                "Ensure software is up-to-date with latest technologies"
+                "Designed and programmed scripts for sale",
+                "Worked on collborative scripts with artists",
+                "Handled support with clients",
+                "Maintained scripts by fixing bugs and implementing features",
+                "Worked to client requirements to create scripts",
+                "Curated code for plugin submissions to marketplace"
             ],
             "reference":""
         }
-        
     ]
 }
