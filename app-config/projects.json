@@ -65,7 +65,6 @@
 
     "2": {
       "name": "Botched RPG",
-      "description": "A project based on MMO/RPG games. I started this project as I've always enjoyed MMO/RPG games and wanted to try making something based on one. Was in development for 2 months.",
       "description": "Heavily inspired by RPG/MMO games, it's a small scale multiplayer focused project intended for around 100 players at once, I've always loved MMOs/RPGs so this was a very big passion project for me. Features a lot of RPG elements such as crafting, fighting monsters, doing quests, dungeons and partying up with friends. It was developed over 2-3 months, due to the limited team the focus was on making the content scope fairly small while still including a bit of everything.",
       "github": "https://github.com/louiefox/botched-rpg",
       "tags": {
@@ -218,6 +217,52 @@
         "3": {
           "name": "image2",
           "url": "https://i.imgur.com/VV6lElQ.png"
+        }
+      }
+    },
+
+    "6": {
+      "name": "Procedural Dungeon RPG",
+      "description": "A procedurally generated dungeon online RPG adventure. Utilises networking, databases and UI/UX to create RPG like systems such as an inventory, NPC shops, item system, looting and dungeons. Features a complex dungeon system that lets players start dungeons with a group, once completed they then return to a lobby world where they can interact with each other and NPCs.",
+      "github": "https://github.com/louiefox/cave-adventure",
+      "tags": {
+        "0": {
+          "name": "Lua",
+          "colour": "secondary"
+        },
+        "1": {
+          "name": "Source Engine",
+          "colour": "primary"
+        },
+        "2": {
+          "name": "Garry's Mod",
+          "colour": "primary"
+        }
+      },
+      "image": {
+        "0": {
+          "name": "image1",
+          "url": "https://i.imgur.com/rYGbY5f.jpg"
+        },
+        "1": {
+          "name": "image2",
+          "url": "https://i.imgur.com/eeCYV0N.jpg"
+        },
+        "2": {
+          "name": "image3",
+          "url": "https://i.imgur.com/jaStBxp.jpg"
+        },
+        "3": {
+          "name": "image4",
+          "url": "https://i.imgur.com/GkrdRxz.jpg"
+        },
+        "4": {
+          "name": "image5",
+          "url": "https://i.imgur.com/v8WWTjN.jpg"
+        },
+        "5": {
+          "name": "image6",
+          "url": "https://i.imgur.com/lKlFJ6Y.jpg"
         }
       }
     }

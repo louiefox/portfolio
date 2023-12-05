@@ -26,16 +26,16 @@
                     "percentage": 60
                 },
                 "5": {
-                    "name": "SQL",
-                    "percentage": 55
+                    "name": "Verse",
+                    "percentage": 60
                 },
                 "6": {
-                    "name": "HTML",
-                    "percentage": 55
+                    "name": "GD Script",
+                    "percentage": 60
                 },
                 "7": {
-                    "name": "CSS",
-                    "percentage": 50
+                    "name": "SQL",
+                    "percentage": 55
                 }
             }
         },
