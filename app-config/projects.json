@@ -28,7 +28,7 @@
 
     "1": {
       "name": "Monolith Roleplay",
-      "description": "An online roleplay game that serviced more than 500,000 players over 6 years, created and worked on by many developers over its' lifetime. I lead and worked on this project with multiple developers for 2 of the 6 years it has existed. The game has a large feature set including but not limited to RPG elements such as inventory, levelling, crafting, fire system, health system and a property system.",
+      "description": "An online roleplay game that serviced more than 450,000 players over 6 years, created and worked on by many developers over its' lifetime. I lead and worked on this project with multiple developers for 2 of the 6 years it has existed. The game has a large feature set including but not limited to RPG elements such as inventory, levelling, crafting, fire system, health system and a property system.",
       "tags": {
         "0": {
           "name": "Lua",
