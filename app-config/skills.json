@@ -10,11 +10,11 @@
                     "percentage": 80
                 },
                 "1": {
-                    "name": "C#",
+                    "name": "C++",
                     "percentage": 75
                 },
                 "2": {
-                    "name": "C++",
+                    "name": "C#",
                     "percentage": 70
                 },
                 "3": {
@@ -43,16 +43,16 @@
             "heading":"Game Engines",
             "skills":{
                 "0": {
-                    "name": "Unity",
-                    "percentage": 75
+                    "name": "Unreal Engine",
+                    "percentage": 80
                 },
                 "1": {
-                    "name": "Godot",
-                    "percentage": 65
+                    "name": "Unity",
+                    "percentage": 70
                 },
                 "2": {
-                    "name": "Unreal Engine",
-                    "percentage": 55
+                    "name": "Godot",
+                    "percentage": 65
                 },
                 "3": {
                     "name": "Source Engine",

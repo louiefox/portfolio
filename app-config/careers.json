@@ -2,9 +2,23 @@
     "heading":"Careers",
     "careers":[
         {
+            "company":"Climax Studios",
+            "start":"2024",
+            "end":"Present",
+            "title":"Programmer",
+            "description":"Worked on various AAA projects within Unreal Engine, collaborated within large teams and worked with external clients.",
+            "responsibilities":[
+                "Profiling and optimising code using Unreal Insights",
+                "Investigating and fixing bugs",
+                "Communicating with QA to solve issues",
+                "Implementing features and optimisation solutions"
+            ],
+            "reference":""
+        },
+        {
             "company":"Thriving Ventures",
             "start":"2019",
-            "end":"Present",
+            "end":"2024",
             "title":"Gameplay Programmer",
             "description":"Worked on a game project with a team of developers, this included back-end, front-end and environment/model artists. Served thousands of active players and focused a lot on feedback from players, main project was a multiplayer gamemode for a UGC platform.",
             "responsibilities":[
@@ -21,7 +35,7 @@
         {
             "company":"Self-Employlment",
             "start":"2018",
-            "end":"Present",
+            "end":"2024",
             "title":"Programmer Freelancer",
             "description":"Created my own game plugins and sold them on a marketplace to thousands of customers to then be used by players. Additionally I worked for various clients to develop private features for their game server.",
             "responsibilities":[
