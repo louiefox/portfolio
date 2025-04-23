@@ -10,32 +10,28 @@
                     "percentage": 80
                 },
                 "1": {
-                    "name": "C++",
+                    "name": "C#",
                     "percentage": 75
                 },
                 "2": {
-                    "name": "C#",
-                    "percentage": 70
+                    "name": "C++",
+                    "percentage": 75
                 },
                 "3": {
-                    "name": "Python",
-                    "percentage": 60
+                    "name": "Verse",
+                    "percentage": 70
                 },
                 "4": {
                     "name": "Javascript",
                     "percentage": 60
                 },
                 "5": {
-                    "name": "Verse",
+                    "name": "Python",
                     "percentage": 60
                 },
                 "6": {
                     "name": "GD Script",
                     "percentage": 60
-                },
-                "7": {
-                    "name": "SQL",
-                    "percentage": 55
                 }
             }
         },
@@ -48,7 +44,7 @@
                 },
                 "1": {
                     "name": "Unity",
-                    "percentage": 70
+                    "percentage": 75
                 },
                 "2": {
                     "name": "Godot",

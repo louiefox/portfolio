@@ -2,13 +2,13 @@
     "heading": "About Me",
     "profile_image_src":"https://i.imgur.com/PBzdKdd.jpg",
     "description_line_clamp":3,
-    "about_me_description": "I am a 3rd year Computer Science student at the University of Hull. I have played video games for most of my life and therefore have a very strong passion for them. For the past 5 years I have been working in games development, I started off by working freelance and modding games I love. This turned into me actually working on complex gamemodes and standalone games, I have also spent time looking into and researching 3D graphics myself as well as using game engines such as Unreal/Unity/Godot.",
+    "about_me_description": "I am a Computer Science graduate working as a games programmer. I have played video games for most of my life and have a very strong passion for them. For the past 5 years I have been working in games development, I started off by working freelance and modding games I love. This turned into me actually working on complex gamemodes and standalone games, I have also spent time looking into and researching 3D graphics myself as well as using game engines such as Unreal/Unity/Godot.",
     "read_more_btn":true,
     "education":[
         {
             "institution":"University of Hull",
             "start_date":"September 2021",
-            "end_date":"Present",
+            "end_date":"June 2024",
             "course":"BSc Computer Science",
             "subjects":[
                 "Parallel and Concurrent Programming",
