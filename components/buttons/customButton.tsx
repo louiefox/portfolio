@@ -1,11 +1,11 @@
 
-import { faGithub } from "@fortawesome/free-brands-svg-icons";
+import { faGithub, faYoutube } from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Button } from "@nextui-org/react";
 
 interface CustomBtnProps {
   title: string;
-  icon: "Github" | "none";
+  icon: "Github" | "Youtube" | "none";
   variant:
     | "solid"
     | "bordered"
@@ -18,7 +18,7 @@ interface CustomBtnProps {
 }
 
 export default function CustomBtn(props: CustomBtnProps) {
-  if (props.icon != "Github") {
+  if (props.icon == "none") {
     return (
       <Button color="primary" variant={props.variant} onClick={props.onClick}>
         {props.title}
@@ -30,7 +30,7 @@ export default function CustomBtn(props: CustomBtnProps) {
         color="primary"
         variant={props.variant}
         onClick={props.onClick}
-        startContent={<FontAwesomeIcon icon={faGithub} color="white" size="xl" />}
+        startContent={<FontAwesomeIcon icon={props.icon == "Github" ? faGithub : faYoutube} color="white" size="xl" />}
       >
         {props.title}
       </Button>

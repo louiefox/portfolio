@@ -4,6 +4,7 @@
     "0": {
       "name": "3D Procedural Cave Generation",
       "description": "My honours project for my 3rd year of university, I made use of L-Systems and Perlin Noise for the generation, it was rendered using OpenGL and written in C++. I was enjoying playing a game related to procedural dungeon generation at the time so I choose procedural generation for my honours. I worked on it for a few months alongside researching the subject area of procedural generation (specifically cave generation).",
+      "youtube": "https://www.youtube.com/watch?v=6YH5yHTKbK4",
       "tags": {
         "0": {
           "name": "C++",
@@ -17,13 +18,9 @@
       "image": {
         "0": {
           "name": "image1",
-          "url": "https://www.youtube.com/watch?v=6YH5yHTKbK4"
-        },
-        "1": {
-          "name": "image1",
           "url": "https://i.imgur.com/sNrNPOZ.png"
         },
-        "2": {
+        "1": {
           "name": "image2",
           "url": "https://i.imgur.com/aCJAahL.png"
         }

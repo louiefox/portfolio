@@ -23,12 +23,13 @@ interface PictureLeftProps {
   name: string;
   description: string;
   githubLink: string;
+  youtubeLink: string;
   tags: { [key: string]: Tag };
   images: { [key: string]: Image };
 }
 
 export default function ProjectPictureLeft(props: PictureLeftProps) {
-  const { name, description, githubLink, tags, images } = props;
+  const { name, description, githubLink, youtubeLink, tags, images } = props;
   const [isReadMoreOpen, setReadMoreOpen] = useState(false);
   const [isPictureOpen, setPictureOpen] = useState(false);
   const [isOverflowing, setIsOverflowing] = useState(false);
@@ -105,6 +106,13 @@ export default function ProjectPictureLeft(props: PictureLeftProps) {
             {githubLink &&
               <Link isExternal href={githubLink}>
                 <CustomBtn title="View Github" icon="Github" variant="bordered" />
+              </Link>
+            }
+
+
+            {youtubeLink &&
+              <Link isExternal href={youtubeLink}>
+                <CustomBtn title="Visit YouTube" icon="Youtube" variant="bordered" />
               </Link>
             }
 

@@ -15,12 +15,12 @@ export default function Projects() {
         if (index % 2 === 0) {
           return (
             //@ts-ignore
-            <ProjectPictureRight key={index} name={project.name} description={project.description} githubLink={project.github} tags={project.tags} images={project.image} />
+            <ProjectPictureRight key={index} name={project.name} description={project.description} githubLink={project.github} youtubeLink={project.youtube} tags={project.tags} images={project.image} />
           );
         } else {
           return (
             //@ts-ignore
-            <ProjectPictureLeft key={index} name={project.name} description={project.description} githubLink={project.github} tags={project.tags} images={project.image} />
+            <ProjectPictureLeft key={index} name={project.name} description={project.description} githubLink={project.github} youtubeLink={project.youtube} tags={project.tags} images={project.image} />
           );
         }
       })}
