@@ -3,7 +3,7 @@
   "projects": {
     "0": {
       "name": "3D Procedural Cave Generation",
-      "description": "My honours project for my 3rd year of university, I made use of L-Systems and Perlin Noise for the generation, it was rendered using OpenGL and written in C++. I was enjoying playing a game related to procedural dungeon generation at the time so I choose procedural generation for my honours. I worked on it for a few months alongside researching the subject area of procedural generation (specifically cave generation).",
+      "description": "My honours project for my 3rd year of university, I made use of L-Systems and Perlin Noise for the generation, it was rendered using OpenGL and written in C++. I was enjoying playing a game related to procedural dungeon generation at the time so I choose procedural generation for my honours. I worked on it for a few months alongside researching the subject area of procedural generation (specifically cave generation). Received 2nd place in Game Technology at the Game Republic student showcase.",
       "youtube": "https://www.youtube.com/watch?v=6YH5yHTKbK4",
       "tags": {
         "0": {
@@ -13,16 +13,24 @@
         "1": {
           "name": "OpenGL",
           "colour": "primary"
+        },
+        "2": {
+          "name": "Red Kite Games Award",
+          "colour": "success"
         }
       },
       "image": {
         "0": {
           "name": "image1",
-          "url": "https://i.imgur.com/sNrNPOZ.png"
+          "url": "https://i.imgur.com/oSbRSCn.png"
         },
         "1": {
           "name": "image2",
-          "url": "https://i.imgur.com/aCJAahL.png"
+          "url": "https://i.imgur.com/AxdzTVs.png"
+        },
+        "2": {
+          "name": "image3",
+          "url": "https://i.imgur.com/n1TsU5S.png"
         }
       }
     },
@@ -65,6 +73,74 @@
     },
 
     "2": {
+      "name": "C# Battle Royale",
+      "description": "Made on the Source 2 engine within the game/engine, uses C# alongside the s&box editor. This was made during early access to the Source 2 engine and S&box, this project involved making a small scale battle-royale game where ~24 players would fight to win. It utilizies a lot of networking, including a networked inventory, health/armour and other player stats. There is a complex custom loot and inventory system used to display items in the world.",
+      "github": "https://github.com/louiefox/sbox-bots",
+      "tags": {
+        "0": {
+          "name": "C#",
+          "colour": "secondary"
+        },
+        "1": {
+          "name": "Source 2 Engine",
+          "colour": "primary"
+        },
+        "2": {
+          "name": "S&box",
+          "colour": "primary"
+        }
+      },
+      "image": {
+        "0": {
+          "name": "image1",
+          "url": "https://i.imgur.com/G4ARDV4.png"
+        },
+        "1": {
+          "name": "image2",
+          "url": "https://i.imgur.com/KWIavKQ.jpg"
+        },
+        "2": {
+          "name": "image2",
+          "url": "https://i.imgur.com/DflqRfu.png"
+        },
+        "3": {
+          "name": "image2",
+          "url": "https://i.imgur.com/VV6lElQ.png"
+        }
+      }
+    },
+
+    "3": {
+      "name": "Warriors of War",
+      "description": "Created as part of the Climax Game Jam, worked with a programmer and artist over 2 days to create a game heavily inspired by \"Age of War\".",
+      "youtube": "https://www.youtube.com/watch?v=qhkMAU6Sfuo",
+      "tags": {
+        "0": {
+          "name": "C#",
+          "colour": "secondary"
+        },
+        "1": {
+          "name": "Unity",
+          "colour": "primary"
+        },
+        "2": {
+          "name": "Climax Game Jam 2024",
+          "colour": "primary"
+        }
+      },
+      "image": {
+        "0": {
+          "name": "image1",
+          "url": "https://i.imgur.com/U0p2u1h.jpeg"
+        },
+        "1": {
+          "name": "image2",
+          "url": "https://i.imgur.com/V8Z6yaQ.jpeg"
+        }
+      }
+    },
+
+    "4": {
       "name": "Botched RPG",
       "description": "Heavily inspired by RPG/MMO games, it's a small scale multiplayer focused project intended for around 100 players at once, I've always loved MMOs/RPGs so this was a very big passion project for me. Features a lot of RPG elements such as crafting, fighting monsters, doing quests, dungeons and partying up with friends. It was developed over 2-3 months, due to the limited team the focus was on making the content scope fairly small while still including a bit of everything.",
       "github": "https://github.com/louiefox/botched-rpg",
@@ -114,36 +190,7 @@
       }
     },
 
-    "3": {
-      "name": "Unity Networking",
-      "description": "Learned and implemented unity networking using \"Netcode for GameObjects\". The networking implementation used serverside verification as it was intended for use in an online game, this means that everything is requested by the client (including player movement). As well as players being networked a username system was implemented to allow players to set their names. Additionally shown in one of the images was an attempt at using Inverse Kinematics for foot placement, this was also part of the networking.",
-      "tags": {
-        "0": {
-          "name": "C#",
-          "colour": "secondary"
-        },
-        "1": {
-          "name": "Unity",
-          "colour": "primary"
-        }
-      },
-      "image": {
-        "0": {
-          "name": "image1",
-          "url": "https://i.imgur.com/TEAl4Di.png"
-        },
-        "1": {
-          "name": "image2",
-          "url": "https://i.imgur.com/OnA0Xaj.png"
-        },
-        "2": {
-          "name": "image2",
-          "url": "https://i.imgur.com/F2O8OEw.png"
-        }
-      }
-    },
-
-    "4": {
+    "5": {
       "name": "Gmodstore Plugins",
       "description": "This isn't a singular project but a collection of projects, over multiple years I published multiple plugins that have been sold to over 5,000 customers. These plugins were made for the Garry's Mod game which is an online multiplayer game, most of the plugins included significant networking, UI/UX as well as gameplay design. These plugins were how I started learning to program, I made them all out of my passion for the game and my passion for games programming. Selling these plugins to customers also involved supporting them for customers, these plugins were used by customers and therefore live service, this meant I had to respond to bug fixes and improvements timely. Working with customers/clients provided lots of feedback on my projects, it helped me learn how to make products intended for users and tailor them to a users experience.",
       "tags": {
@@ -180,44 +227,6 @@
         "4": {
           "name": "image2",
           "url": "https://i.imgur.com/7Akhlis.png"
-        }
-      }
-    },
-
-    "5": {
-      "name": "C# Battle Royale",
-      "description": "Made on the Source 2 engine within the game/engine, uses C# alongside the s&box editor. This was made during early access to the Source 2 engine and S&box, this project involved making a small scale battle-royale game where ~24 players would fight to win. It utilizies a lot of networking, including a networked inventory, health/armour and other player stats. There is a complex custom loot and inventory system used to display items in the world.",
-      "github": "https://github.com/louiefox/sbox-bots",
-      "tags": {
-        "0": {
-          "name": "C#",
-          "colour": "secondary"
-        },
-        "1": {
-          "name": "Source 2 Engine",
-          "colour": "primary"
-        },
-        "2": {
-          "name": "S&box",
-          "colour": "primary"
-        }
-      },
-      "image": {
-        "0": {
-          "name": "image1",
-          "url": "https://i.imgur.com/G4ARDV4.png"
-        },
-        "1": {
-          "name": "image2",
-          "url": "https://i.imgur.com/KWIavKQ.jpg"
-        },
-        "2": {
-          "name": "image2",
-          "url": "https://i.imgur.com/DflqRfu.png"
-        },
-        "3": {
-          "name": "image2",
-          "url": "https://i.imgur.com/VV6lElQ.png"
         }
       }
     },
